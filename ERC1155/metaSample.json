@@ -1,0 +1,16 @@
+{
+  "image":"https://lh3.googleusercontent.com/DJXIL2jrlKP-CVv3R5xdv9cSOnPstLtaPaoG2Iv0nn_y8h1ScduvV7SsF_2S5qjVWM0bS69ZgQh9SL6M9mo8O60YNP-9W2ggNbCAwg",
+  "name":"CyberMonkey #8781",
+  "description":null,
+  "external_link":null,
+  "animation_url":null,
+  "traits":[
+    {"trait_type":"background","value":"blue","display_type":null,"max_value":null,"trait_count":1514,"order":null},
+    {"trait_type":"body","value":"monkey","display_type":null,"max_value":null,"trait_count":1695,"order":null},
+    {"trait_type":"mouth","value":"bandana","display_type":null,"max_value":null,"trait_count":439,"order":null},
+    {"trait_type":"earring","value":"spike","display_type":null,"max_value":null,"trait_count":735,"order":null},
+    {"trait_type":"clothes","value":"orange_sweater","display_type":null, "max_value":null,"trait_count":244,"order":null},
+    {"trait_type":"neck","value":"silver_ring","display_type":null,"max_value":null,"trait_count":613,"order":null},
+    {"trait_type":"feature","value":"nerd_tattoo","display_type": null,"max_value":null,"trait_count":414,"order":null},
+    {"trait_type":"eyes","value":"geometry","display_type":null,"max_value":null,"trait_count":353,"order":null},
+    {"trait_type":"head","value":"mask","display_type":null,"max_value":null,"trait_count":51,"order":null}]} 
